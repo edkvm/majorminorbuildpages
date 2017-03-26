@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Docker Overview</title>
+    <link>http://majorminorbuild.com/post/index.xml</link>
+    <description>Recent content in Posts on Docker Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://majorminorbuild.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1. A Beginner-Friendly Introduction to Containers, VMs and Docker</title>
+      <link>http://majorminorbuild.com/post/a-beginner-friendly-introduction-to-containers-vms-and-docker.1/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://majorminorbuild.com/post/a-beginner-friendly-introduction-to-containers-vms-and-docker.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2. Running a Rails Development Environment in Docker</title>
+      <link>http://majorminorbuild.com/post/running-a-rails-development-environment-in-docker.1/</link>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://majorminorbuild.com/post/running-a-rails-development-environment-in-docker.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3. Persistent volumes with Docker - Data-only container pattern</title>
+      <link>http://majorminorbuild.com/post/persistent-volumes-with-docker-data-only-container-pattern.1/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://majorminorbuild.com/post/persistent-volumes-with-docker-data-only-container-pattern.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4. Docker Container’s Filesystem Demystified</title>
+      <link>http://majorminorbuild.com/post/docker-containers-filesystem-demystified/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://majorminorbuild.com/post/docker-containers-filesystem-demystified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5. Understand images, containers, and storage drivers</title>
+      <link>http://majorminorbuild.com/post/understand-images-containers-and-storage-drivers/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://majorminorbuild.com/post/understand-images-containers-and-storage-drivers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Beginner-Friendly Introduction to Containers, VMs and Docker</title>
+      <link>http://majorminorbuild.com/post/introduction-to-docker/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://majorminorbuild.com/post/introduction-to-docker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

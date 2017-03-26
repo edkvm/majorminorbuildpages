@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://majorminorbuild.com/post/a-beginner-friendly-introduction-to-containers-vms-and-docker.1/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/post/running-a-rails-development-environment-in-docker.1/</loc>
+    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/post/persistent-volumes-with-docker-data-only-container-pattern.1/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/post/docker-containers-filesystem-demystified/</loc>
+    <lastmod>2016-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/post/understand-images-containers-and-storage-drivers/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/post/introduction-to-docker/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/about/</loc>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://majorminorbuild.com/post/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
